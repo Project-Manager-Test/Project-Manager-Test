@@ -4,6 +4,6 @@ Project-Manager:
   project: 1
   inbox: Inbox
   labels:
-    - To do: To do
-    - In progress: In progress
-    - Done: Done
+    To do: To do
+    In progress: In progress
+    Done: Done
