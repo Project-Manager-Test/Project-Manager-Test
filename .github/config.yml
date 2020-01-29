@@ -1,0 +1,9 @@
+Project-Manager:
+  org: Project-Manager-Test
+  repo: Project-Manager-Test
+  project: 1
+  inbox: Inbox
+  labels:
+    - To do: To do
+    - In progress: In progress
+    - Done: Done
